@@ -1,0 +1,1 @@
+window.addEventListener("scroll", () => { document.querySelector(".hero h1").style.color = "purple"; });
